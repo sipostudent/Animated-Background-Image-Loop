@@ -15,5 +15,5 @@ HTML, CSS, JavaScript
 
 ## Project Specifications
 
-- Image filters into display in black shapes over preset background
-- Animation repeats when user refreshes page 
+- Picture image comes into a visual display via an animated filter over a colour background.
+- The image animation repeats each time a user refreshes the page. 

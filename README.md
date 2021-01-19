@@ -1,6 +1,6 @@
 <h1 align = "center">
 <br>
-  <img src = "assets/img/bg-anime-snap.png" width = "600">
+  <img src = "assets/img/anime-bg-snapshot.png" width = "600">
   <br>
     <br>
   Animated Background Image Loop
